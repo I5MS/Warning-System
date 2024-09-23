@@ -1,0 +1,8 @@
+{
+  "token": "INSERT_TOKEN_HERE",
+  "prefix": "!",
+  "logChannelId": "LOG-CHANNEL-ID",
+  "warnRoleId": "ROLE-ID",
+  "Staff": ["ROLE-1", "ROLE-2"],
+  "StaffCanRemoveWarn": ["ROLE-1", "ROLE-2"]
+}
